@@ -1,0 +1,7 @@
+C:\Users\dsavage\Documents\Visual Studio 2008\Projects\httptest\httptest\bin\Debug\httptest.dll
+C:\Users\dsavage\Documents\Visual Studio 2008\Projects\httptest\httptest\bin\Debug\httptest.pdb
+C:\Users\dsavage\Documents\Visual Studio 2008\Projects\httptest\httptest\bin\Debug\SimplSharpCustomAttributesInterface.dll
+C:\Users\dsavage\Documents\Visual Studio 2008\Projects\httptest\httptest\bin\Debug\SimplSharpHelperInterface.dll
+C:\Users\dsavage\Documents\Visual Studio 2008\Projects\httptest\httptest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dsavage\Documents\Visual Studio 2008\Projects\httptest\httptest\obj\Debug\httptest.dll
+C:\Users\dsavage\Documents\Visual Studio 2008\Projects\httptest\httptest\obj\Debug\httptest.pdb
